@@ -6,22 +6,33 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 Johns Hopkins Univeristy, Baltimore, USA
+
 _August 2021_ - _December_2022_
+
 MS, Security Informatics
 
 VNR VJIET, Hyderabad, India
+
 _August 2016_ - _September_2020_
+
 BTech, Computer Science and Engineering
 
 ### Experience
-**Graduate Assistant, Baltimore, USA:** December 2020 - July 2021
+**Graduate Assistant, Baltimore, USA:**
+
+December 2020 - July 2021
+
 _Johns Hopkins Univeristy_
 
 • Courses: Object Oriented Software Engineering, Software Testing & Debugging
 • Assisted with doubt clarification, graded weekly assignments and advised teams on final project
 
-**Smart Interviews, Hyderabad, India:** December 2020 - July 2021
+**Smart Interviews, Hyderabad, India:**    
+
+December 2020 - July 2021
+
 _Software Development Engineer_
+
 • Spearheaded the development of proprietary Code Editor
 • Conceptualized database design & created a well-defined software implementation design of new web application
 • Developed features and implemented workflow automation services
@@ -29,8 +40,9 @@ _Software Development Engineer_
 • Detected potential weakness in user authentication and crafted creative solutions to eliminate them
 • Delivered high quality solutions that led to 30% growth
 
-**Alltronics Technologies Pvt Ltd, Hyderabad, India** August 2018 - September 2018
+**Alltronics Technologies Pvt Ltd, Hyderabad, India**   August 2018 - September 2018
 _Software & Security Engineer Intern_
+
 • Led design, planning and execution of RESTful API for Customer-Relationship Management product
 • Built a user authentication service and performed testing to identify and fix security-related bugs
 • Developed web application for registering details of complaints raised
