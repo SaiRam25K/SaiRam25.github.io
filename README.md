@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/SaiRam25K/SaiRam25K.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Education
+## Education
 **Johns Hopkins Univeristy, Baltimore, USA**
 
 _August 2021_ - _December 2022_
@@ -17,7 +17,7 @@ _August 2016_ - _September 2020_
 
 BTech, Computer Science and Engineering
 
-### Experience
+## Experience
 **Graduate Assistant, Baltimore, USA:**
 
 December 2020 - July 2021
@@ -62,13 +62,10 @@ _Software & Security Engineer Intern_
 
 associated with a unique ticket id (generated automatically). Ensures real time status update reports to staff
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaiRam25K/SaiRam25K.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Technical Skills
+## Technical Skills
 
 **Development Technologies:**  C/C++, Python, Java, JavaScript, HTML, CSS, Docker, AWS, Git, SQL, PHP, MySQL
 
