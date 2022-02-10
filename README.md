@@ -1,30 +1,41 @@
-## Welcome to GitHub Pages
+## Sai Ram Kunapareddy
 
 You can use the [editor on GitHub](https://github.com/SaiRam25K/SaiRam25K.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
+Johns Hopkins Univeristy, Baltimore, USA
+_August 2021_ - _December_2022_
+MS, Security Informatics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+VNR VJIET, Hyderabad, India
+_August 2016_ - _September_2020_
+BTech, Computer Science and Engineering
 
-```markdown
-Syntax highlighted code block
+### Experience
+**Graduate Assistant, Baltimore, USA:** December 2020 - July 2021
+_Johns Hopkins Univeristy_
 
-# Header 1
-## Header 2
-### Header 3
+• Courses: Object Oriented Software Engineering, Software Testing & Debugging
+• Assisted with doubt clarification, graded weekly assignments and advised teams on final project
 
-- Bulleted
-- List
+**Smart Interviews, Hyderabad, India:** December 2020 - July 2021
+_Software Development Engineer_
+• Spearheaded the development of proprietary Code Editor
+• Conceptualized database design & created a well-defined software implementation design of new web application
+• Developed features and implemented workflow automation services
+• Collaborated in design discussions and code reviews to develop customer-requested features
+• Detected potential weakness in user authentication and crafted creative solutions to eliminate them
+• Delivered high quality solutions that led to 30% growth
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+**Alltronics Technologies Pvt Ltd, Hyderabad, India** August 2018 - September 2018
+_Software & Security Engineer Intern_
+• Led design, planning and execution of RESTful API for Customer-Relationship Management product
+• Built a user authentication service and performed testing to identify and fix security-related bugs
+• Developed web application for registering details of complaints raised
+• Prepared and updated detailed plan to track overall history of complaints across multiple product lines issued
+associated with a unique ticket id (generated automatically). Ensures real time status update reports to staf
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -32,6 +43,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaiRam25K/SaiRam25K.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Technical Skills
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Development Technologies:**  C/C++, Python, Java, JavaScript, HTML, CSS, Docker, AWS, Git, SQL, PHP, MySQL
+**Security Tools & Concepts:**  BurpSuite, Wireshark, Metasploit, Nmap, OWASP Top 10, Threat Modeling, Secure
+Code Review, Password Cracking, Risk Assessment
+**Operating Systems:** Windows, Linux
