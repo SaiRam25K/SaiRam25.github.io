@@ -28,6 +28,7 @@ _Johns Hopkins Univeristy_
 
 • Assisted with doubt clarification, graded weekly assignments and advised teams on final project
 
+
 **Smart Interviews, Hyderabad, India:**    
 
 December 2020 - July 2021
@@ -46,6 +47,7 @@ _Software Development Engineer_
 
 • Delivered high quality solutions that led to 30% growth
 
+
 **Alltronics Technologies Pvt Ltd, Hyderabad, India**   
 
 August 2018 - September 2018
@@ -59,8 +61,7 @@ _Software & Security Engineer Intern_
 • Developed web application for registering details of complaints raised
 
 • Prepared and updated detailed plan to track overall history of complaints across multiple product lines issued
-
-associated with a unique ticket id (generated automatically). Ensures real time status update reports to staff
+  associated with a unique ticket id (generated automatically). Ensures real time status update reports to staff
 
 
 
