@@ -13,9 +13,9 @@ _August 2021_ - _December 2022_
 
 **VNR VJIET, Hyderabad, India**
 
-- _August 2016_ - _September 2020_
+_August 2016_ - _September 2020_
 
-- BTech, Computer Science and Engineering
+BTech, Computer Science and Engineering
 
 ### Experience
 **Graduate Assistant, Baltimore, USA:**
@@ -24,7 +24,8 @@ December 2020 - July 2021
 
 _Johns Hopkins Univeristy_
 
-• Courses: Object Oriented Software Engineering, Software Testing & Debugging
+• _Courses:_ Object Oriented Software Engineering, Software Testing & Debugging
+
 • Assisted with doubt clarification, graded weekly assignments and advised teams on final project
 
 **Smart Interviews, Hyderabad, India:**    
