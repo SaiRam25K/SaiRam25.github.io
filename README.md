@@ -5,17 +5,17 @@ You can use the [editor on GitHub](https://github.com/SaiRam25K/SaiRam25K.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Education
-- Johns Hopkins Univeristy, Baltimore, USA
+Johns Hopkins Univeristy, Baltimore, USA
 
-- _August 2021_ - _December_2022_
+- _August 2021_ - _December 2022_
 
 - MS, Security Informatics
 
 VNR VJIET, Hyderabad, India
 
-_August 2016_ - _September_2020_
+- _August 2016_ - _September 2020_
 
-BTech, Computer Science and Engineering
+- BTech, Computer Science and Engineering
 
 ### Experience
 **Graduate Assistant, Baltimore, USA:**
