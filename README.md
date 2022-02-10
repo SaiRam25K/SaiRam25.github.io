@@ -35,20 +35,32 @@ December 2020 - July 2021
 _Software Development Engineer_
 
 • Spearheaded the development of proprietary Code Editor
+
 • Conceptualized database design & created a well-defined software implementation design of new web application
+
 • Developed features and implemented workflow automation services
+
 • Collaborated in design discussions and code reviews to develop customer-requested features
+
 • Detected potential weakness in user authentication and crafted creative solutions to eliminate them
+
 • Delivered high quality solutions that led to 30% growth
 
-**Alltronics Technologies Pvt Ltd, Hyderabad, India**   August 2018 - September 2018
+**Alltronics Technologies Pvt Ltd, Hyderabad, India**   
+
+August 2018 - September 2018
+
 _Software & Security Engineer Intern_
 
 • Led design, planning and execution of RESTful API for Customer-Relationship Management product
+
 • Built a user authentication service and performed testing to identify and fix security-related bugs
+
 • Developed web application for registering details of complaints raised
+
 • Prepared and updated detailed plan to track overall history of complaints across multiple product lines issued
-associated with a unique ticket id (generated automatically). Ensures real time status update reports to staf
+
+associated with a unique ticket id (generated automatically). Ensures real time status update reports to staff
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
@@ -59,6 +71,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Technical Skills
 
 **Development Technologies:**  C/C++, Python, Java, JavaScript, HTML, CSS, Docker, AWS, Git, SQL, PHP, MySQL
+
 **Security Tools & Concepts:**  BurpSuite, Wireshark, Metasploit, Nmap, OWASP Top 10, Threat Modeling, Secure
 Code Review, Password Cracking, Risk Assessment
+
 **Operating Systems:** Windows, Linux
