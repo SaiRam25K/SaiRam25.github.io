@@ -10,7 +10,7 @@ I'm Sairam, a security grad student at Hopkins.
 I previously worked in an emerging ed-tech startup and currently exploring the area of cyber security.
 I am currently pursuing summer internships in security. My resume can be found below, if you find my work and skills to align with your company objective don't hesitate to reach out!
 
-[RESUME](https://drive.google.com/file/d/1h3aNRBKx_vW-Vxd1qEdzDpnhA39CiXs8/view?usp=sharing)
+[RESUME](https://drive.google.com/file/d/1h3aNRBKx_vW-Vxd1qEdzDpnhA39CiXs8/view?usp=sharing) in PDF format
 
 ## Education
 **Johns Hopkins Univeristy, Baltimore, USA**
